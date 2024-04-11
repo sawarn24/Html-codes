@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MY FIRST PAGE</title>
+</head>
+<body>
+
+<h1>My Profile</h1>
+<hr>
+<img src="/myphoto.jpg" height="200px" width="200px">
+<hr>
+<table>
+    <thead>
+    
+    <caption>Qualification</caption>
+    
+    <tr>
+        <th>DEGREE</th>
+        <th>BOARD</th>
+        <th>PER/CGPA</th>
+        <th>PASSING YEAR</th>
+    </tr>
+    </thead>
+    <tbody>
+     <tr> 
+        <td>X</td>
+        <td>cbse</td>
+        <td>76%</td>
+        <td>2020</td>
+    </tr>
+    <tr>
+        <td>xii</td>
+        <td>cbse</td>
+        <td>69%</td>
+        <td>2022</td>
+    </tr>
+         <td>b.tech</td>
+         <td>makaut</td>
+         <td>---</td>
+         <td>2027</td>
+        </tbody>
+    </table>
+    <hr>
+    <h3>CO CURRICULAR ACTIVITIES</h3>
+    <UL>
+        <li>participated in hackathon</li>
+        <li>certified in c at hackerrank</li>
+        <li>certified in html at hackerrank</li>
+    </UL>
+    <hr>
+     <h3>EXTRA CURRICULAR ACTIVITIES</h3>
+     <UL>
+        <li>participated in college cricket tournament</li>
+        <li>qualified to 2nd round in mystic map in srey24</li>
+
+     </UL>
+     <hr>
+     <h3>HOBBIES</h3>
+     <OL>
+        <LI>SPORTS</LI>
+        <LI>DEBATE</LI>
+        <LI>E-SPORTS</LI>
+        <LI>TRAVELLING</LI>
+     </OL>
+     <HR>
+    <H3>LANGUAGES KNOWN</H3>
+    <ol>
+        <li>Hindi</li>
+        <li>ENGLISH</li>
+    </ol>
+    <hr>
+    <h3><i>you can see me at</i></h3>
+    <a href="https://github.com/sawarn24"><img src="github.png" alt="github " </a>
+    <a href="https://www.hackerrank.com/profile/sawarnishan661"><img src="hackerrank.png" alt="hackerrank " </a>
+    <a href="https://www.linkedin.com/in/ishan-sawarn-2b323b288/"><img src="linkdin.png" alt="linkdin" </a>
+    <hr>
+    
+
+
+
+
+    
+</body>
+</html>
