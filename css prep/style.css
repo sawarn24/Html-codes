@@ -1,0 +1,21 @@
+#navbar {
+    background-color: #0f1111;
+    height: 60px;
+    
+    border: 7px solid white;
+    
+}
+#amazon{
+    color:#f08804;
+    width: 70px;
+    margin-right:200px;
+}
+ 
+body{
+   background-color: green;
+
+}
+#account{
+    color:yellow;
+
+}
